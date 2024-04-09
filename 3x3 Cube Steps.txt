@@ -1,0 +1,3 @@
+Second Last step (Position Corners) : R' F R' B2 R F' R' B2 R2 U'
+
+Last step (Position Edges) : F2 U R' L F2 L' R U F2
